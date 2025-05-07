@@ -152,9 +152,9 @@ Este repositório serve como uma curadoria pessoal de projetos que encontrei no 
 -   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)  
     Perguntas comuns em entrevistas de programação.
     
--   [rgiovann/codehouse](https://github.com/rgiovann/codehouse)  
-    Protótipo de site pessoal com repositórios e links úteis.
-    
+-   [DopplerHQ/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)  
+    Ferramenta de download de vídeos baseada no `youtube-dl`, com várias melhorias e novos recursos.
+  
 
 ----------
 
